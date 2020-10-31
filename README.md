@@ -38,10 +38,13 @@ mv WiringPi wiringPi
 cd wiringPi
 ./build
 
-# 잘 설치됐는지 확인
+```
+- **Check wiringPi downloaded well**
+```
 gpio -v
 ```
-- **Compile RPi.c**
+- **Compile RPi.c and Execute**
 ```
 gcc -o RPi.c RPi -lwringPi
+./RPi
 ```
