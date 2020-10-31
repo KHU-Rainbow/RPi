@@ -1,4 +1,4 @@
-# Rainbow - Raspberry Pi + Sensor
+# Rainbow - RPi
 
 ## Project Explanation
 ### 1. 초음파 센서
